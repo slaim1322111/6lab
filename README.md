@@ -1,4 +1,4 @@
-# 6lab
+# 6.1 lab
 Проверка работы
 <img width="372" height="85" alt="image" src="https://github.com/user-attachments/assets/505f6281-81c4-47a2-b37a-a4152027d587" />
 
@@ -33,3 +33,8 @@
 невозможность шифрования потоковых данных без специальных режимов;
 более сложная реализация по сравнению с потоковыми шифрами;
 при неправильном режиме работы возможны утечки информации.
+
+6.2 lab
+<img width="342" height="50" alt="image" src="https://github.com/user-attachments/assets/8b18e4b7-0a7a-4a4e-a395-685e1bd4ea51" />
+<img width="237" height="118" alt="image" src="https://github.com/user-attachments/assets/47ac4162-7bf5-4fad-ab34-d690428cf420" />
+
